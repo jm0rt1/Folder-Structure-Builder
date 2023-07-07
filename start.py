@@ -1,4 +1,5 @@
 import os
+# run this file in the directory you want to create the files in
 
 filename = "structure.txt"
 # change this if you want to create files in a specific directory
